@@ -1,3 +1,3 @@
 # Tailwind-landing-page
-http://github.com/Kyo-code278/Tailwind-landing-page/blob/main/img/tailwind-page-pv1.png
+[http://github.com/Kyo-code278/Tailwind-landing-page/blob/main/img/tailwind-page-pv1.png](https://raw.githubusercontent.com/Kyo-code278/Tailwind-landing-page/refs/heads/main/img/tailwind-page-pv1.png)
 Este projeto é uma landing page responsiva desenvolvida com Tailwind CSS, projetada para demonstrar as principais vantagens do framework como: desenvolvimento ultrarrápido com classes utilitárias, personalização total, responsividade nativa e otimização para produção. A página combina um design limpo com exemplos práticos de uso de classes Tailwind, além de apresentar seções informativas, botões interativos e blocos de código estilizados. Ideal para quem deseja aprender ou demonstrar o poder do Tailwind na criação de interfaces modernas e eficientes.
